@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82cb0ce1303ad1d42870331bbf14332d, type: 3}
+  m_Name: Levels
+  m_EditorClassIdentifier: 
+  levels:
+  - bottles:
+    - bottlePrefab: {fileID: 5874523911076338022, guid: 3d4baf57306f6ec41bb814d39c990708, type: 3}
+      pillPrefab: {fileID: 4300114183647004195, guid: 1d7f8acffb76c3f40a0ac569e4546519, type: 3}
+      labelPrefab: {fileID: 5494468683874942666, guid: d3ad9737d9e7e7c4bb2182cca505adaa, type: 3}
+      colorMat: {fileID: 2100000, guid: f314aa630d2c39342a8ce87b1a14f734, type: 2}
+      glassColorMat: {fileID: 2100000, guid: 578ef7051cbef1f4db41398c0cb28524, type: 2}
+      maxPills: 4
+    - bottlePrefab: {fileID: 7204413403409630822, guid: 399cb26a2417f184cb437490a7801061, type: 3}
+      pillPrefab: {fileID: 4521725384724845503, guid: d3d75c382430d1944b63426b2c096384, type: 3}
+      labelPrefab: {fileID: 5494468683874942666, guid: d3ad9737d9e7e7c4bb2182cca505adaa, type: 3}
+      colorMat: {fileID: 2100000, guid: 97cc8e02e49775746b15ae2ac0fa202e, type: 2}
+      glassColorMat: {fileID: 2100000, guid: 959b9878eef91814fb200d22ff86713f, type: 2}
+      maxPills: 4
+    - bottlePrefab: {fileID: 3512028445597095625, guid: 63fab4f8649517548ab36e4ab2d8d4b3, type: 3}
+      pillPrefab: {fileID: 820427764412227627, guid: 64d4a8d6b5f568a49a73f9511241784a, type: 3}
+      labelPrefab: {fileID: 5494468683874942666, guid: d3ad9737d9e7e7c4bb2182cca505adaa, type: 3}
+      colorMat: {fileID: 2100000, guid: 3d0bebc53de16934bac47788001f5534, type: 2}
+      glassColorMat: {fileID: 2100000, guid: 8677ab5f61d1eb54a979386c0dbdb54f, type: 2}
+      maxPills: 4
+    - bottlePrefab: {fileID: 5874523911076338022, guid: 3d4baf57306f6ec41bb814d39c990708, type: 3}
+      pillPrefab: {fileID: 4521725384724845503, guid: d3d75c382430d1944b63426b2c096384, type: 3}
+      labelPrefab: {fileID: 5494468683874942666, guid: d3ad9737d9e7e7c4bb2182cca505adaa, type: 3}
+      colorMat: {fileID: 2100000, guid: 0ce8e4649786b7c498f9536c4fd3a2e8, type: 2}
+      glassColorMat: {fileID: 2100000, guid: f82f21a045427ea4cad9a94824c4a6ef, type: 2}
+      maxPills: 4
+    - bottlePrefab: {fileID: 3512028445597095625, guid: 63fab4f8649517548ab36e4ab2d8d4b3, type: 3}
+      pillPrefab: {fileID: 4300114183647004195, guid: 1d7f8acffb76c3f40a0ac569e4546519, type: 3}
+      labelPrefab: {fileID: 5494468683874942666, guid: d3ad9737d9e7e7c4bb2182cca505adaa, type: 3}
+      colorMat: {fileID: 2100000, guid: c4f070753d0ff944c9d6259cf38cea24, type: 2}
+      glassColorMat: {fileID: 2100000, guid: b6d5c9e2d8a8712478be2afee9f1bae2, type: 2}
+      maxPills: 4
+    - bottlePrefab: {fileID: 7204413403409630822, guid: 399cb26a2417f184cb437490a7801061, type: 3}
+      pillPrefab: {fileID: 820427764412227627, guid: 64d4a8d6b5f568a49a73f9511241784a, type: 3}
+      labelPrefab: {fileID: 5494468683874942666, guid: d3ad9737d9e7e7c4bb2182cca505adaa, type: 3}
+      colorMat: {fileID: 2100000, guid: c92784ba050ad8044b4b4de3045d5f50, type: 2}
+      glassColorMat: {fileID: 2100000, guid: 9e0aef41517ab4c46b22e63a7e843db8, type: 2}
+      maxPills: 4
